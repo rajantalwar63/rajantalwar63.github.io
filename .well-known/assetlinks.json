@@ -2,23 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.simpplr.SimpplrX",
-    "sha256_cert_fingerprints":
-    ["A5:10:B8:C2:CE:C3:A7:AE:18:54:78:67:23:AF:66:41:44:41:21:F0:73:7E:C9:BD:8D:6F:8D:10:47:F8:EC:1D"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://rajantalwar63.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.simpplr.SimpplrX",
+    "package_name": "com.example.rajan.applinks",
     "sha256_cert_fingerprints":
     ["A5:10:B8:C2:CE:C3:A7:AE:18:54:78:67:23:AF:66:41:44:41:21:F0:73:7E:C9:BD:8D:6F:8D:10:47:F8:EC:1D"]
   }
