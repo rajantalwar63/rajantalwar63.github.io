@@ -18,5 +18,14 @@
     "sha256_cert_fingerprints":
     ["A5:10:B8:C2:CE:C3:A7:AE:18:54:78:67:23:AF:66:41:44:41:21:F0:73:7E:C9:BD:8D:6F:8D:10:47:F8:EC:1D"]
   }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.simpplr.SimpplrX",
+    "sha256_cert_fingerprints":
+    ["22:A6:97:9B:53:38:9F:42:CA:48:09:B9:DD:45:09:55:D7:3D:EA:97:C2:E2:BB:0C:05:F4:50:38:6C:DE:3C:FB"]
+  }
 }
 ]
