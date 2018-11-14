@@ -27,5 +27,14 @@
     "sha256_cert_fingerprints":
     ["22:A6:97:9B:53:38:9F:42:CA:48:09:B9:DD:45:09:55:D7:3D:EA:97:C2:E2:BB:0C:05:F4:50:38:6C:DE:3C:FB"]
   }
+},
+ {
+ "relation": ["delegate_permission/common.handle_all_urls"],
+ "target": {
+   "namespace": "android_app",
+   "package_name": "com.workwin.aurora",
+   "sha256_cert_fingerprints":
+   ["80:C4:55:3B:05:B8:C6:0C:FD:D6:F3:87:EB:02:C2:79:92:66:28:77:FF:7B:F2:6F:22:CF:E6:B5:F0:16:B0:FE"]
+ }
 }
 ]
